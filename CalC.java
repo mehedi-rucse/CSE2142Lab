@@ -2,7 +2,7 @@ import java.util.*
 
 //Simple calculator
 
-public class calc
+public class CalC
 {
     public static void main(String[] args)
     {
